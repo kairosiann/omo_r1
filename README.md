@@ -1,7 +1,7 @@
-# OMO R1 robot ROS package
+# Omorobot R1 Robot ROS package
 
 Melodic Version
 
-author : PinkWink
+Author : PinkWink & Ryan Kim
 
-Official ros package for OMO R1 robot. The original source has been released https://github.com/omorobot/omoros  
+Official Ros package for OMO R1 robot. The original source has been released at: https://github.com/omorobot/omo_r1.
