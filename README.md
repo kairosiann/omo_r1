@@ -1,7 +1,7 @@
 # Omorobot R1 Robot ROS package
 
-Melodic Version
+Compatible with ROS 1 Melodic Morenia.
 
-Author : PinkWink & Ryan Kim
+Authors: PinkWink & Ryan Kim
 
 Official Ros package for OMO R1 robot. The original source has been released at: https://github.com/omorobot/omo_r1.
